@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alegreya_semibold</item>
+        <item>@font/bad_script</item>
+        <item>@font/courgette</item>
+        <item>@font/pathway_gothic_one</item>
+    </array>
+</resources>

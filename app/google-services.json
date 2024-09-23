@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "260204450671",
+    "firebase_url": "https://calendarandschedulingapp-default-rtdb.firebaseio.com",
+    "project_id": "calendarandschedulingapp",
+    "storage_bucket": "calendarandschedulingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260204450671:android:88e88433c0eb83c8170e9a",
+        "android_client_info": {
+          "package_name": "hr.tvz.calendarandschedulingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAne_yMWGMN8cBzHpKetnFo9ihvOt5KI1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

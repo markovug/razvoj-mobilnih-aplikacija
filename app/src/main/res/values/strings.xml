@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalendarAndSchedulingAPP</string>
+    <string-array name="repeat_options">
+        <item>Every 10 minutes</item>
+        <item>Every 30 minutes</item>
+        <item>Every 1 hour</item>
+        <item>Never</item>
+    </string-array>
+    <string name="dismiss">DISMISS</string>
+    <string name="stop">STOP</string>
+    <string name="sign_up_text">Don’t have an account?<u> Sign Up </u></string>
+    <string name="sign_in_text">Already have an account?<u> Log in </u></string>
+</resources>
